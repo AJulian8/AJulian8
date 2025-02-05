@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm AJ!
 
 <!--
 **AJulian8/AJulian8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
