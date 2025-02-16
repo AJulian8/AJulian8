@@ -1,4 +1,4 @@
-<h1>Hey there I'm AJ an IT and Cybersecurity Professional</a></h1>
+<h1>Hey there I'm AJ a IT and Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
