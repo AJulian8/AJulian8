@@ -8,6 +8,12 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/AJulian8/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/AJulian8/azure-network-protocols)
 <h2>👨‍💻 Cyber Security Projects:</h2>
+
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation/Creating and Resolving Tickets](https://github.com/AJulian8/osticket-prereqs)
+- <b>Microsoft Azure</b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/AJulian8/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/AJulian8/azure-network-protocols)
 <!--
 <h2>👨‍💻 Cyber Security Projects:</h2>
 *AJulian8/AJulian8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
