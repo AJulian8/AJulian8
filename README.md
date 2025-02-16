@@ -8,7 +8,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/AJulian8/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/AJulian8/azure-network-protocols)
 <!--
-**AJulian8/AJulian8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*AJulian8/AJulian8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
