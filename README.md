@@ -10,7 +10,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Pen Testing "Rekall Corporation" (Linux and Windows)</b>
-  - [osTicket: Prerequisites and Installation/Creating and Resolving Tickets](https://github.com/AJulian8/pentesting)
+  - [Pen Testing-Rekall Corpororation](https://github.com/AJulian8/pentesting)
 - <b>Building a Security Monitoring Environment (Splunk)</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/AJulian8/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/AJulian8/azure-network-protocols)
