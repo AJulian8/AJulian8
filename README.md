@@ -12,7 +12,7 @@
 - <b>Security Monitoring Environment</b>
   - [Reviewing a Security Monitoring Environment (Splunk)](https://github.com/AJulian8/Security-Monitoring-Environment)
 - <b>Pen Testing (Linux and Windows)</b>
-  - [Pen Testing-Rekall Corpororation](https://github.com/AJulian8/pentesting)
+  - [Pen Testing Environmnets](https://github.com/AJulian8/pentesting)
 <!--
 <h2>👨‍💻 Cyber Security Projects:</h2>
 *AJulian8/AJulian8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
