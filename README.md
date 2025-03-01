@@ -11,8 +11,8 @@
 
 - <b>Pen Testing "Rekall Corporation" (Linux and Windows)</b>
   - [Pen Testing-Rekall Corpororation](https://github.com/AJulian8/pentesting)
-- <b>Building a Security Monitoring Environment (Splunk)</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/AJulian8/configure-ad)
+- <b>Security Monitoring Environment</b>
+  - [Building a Security Monitoting Environment (Splunk)](https://github.com/AJulian8/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/AJulian8/azure-network-protocols)
 <!--
 <h2>👨‍💻 Cyber Security Projects:</h2>
