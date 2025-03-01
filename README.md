@@ -9,6 +9,8 @@
   - [Creating Users- Group Policy and Managing Accounts](https://github.com/AJulian8/azure-network-protocols)
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
+- <b>Security Monitoring Environment</b>
+  - [Building a Security Monitoting Environment (Splunk)](https://github.com/AJulian8/configure-ad)
 - <b>Pen Testing "Rekall Corporation" (Linux and Windows)</b>
   - [Pen Testing-Rekall Corpororation](https://github.com/AJulian8/pentesting)
 - <b>Security Monitoring Environment</b>
