@@ -6,7 +6,7 @@
   - [osTicket: Prerequisites and Installation/Creating and Resolving Tickets](https://github.com/AJulian8/osticket-prereqs)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/AJulian8/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/AJulian8/azure-network-protocols)
+  - [Creating Users- Group Policy and Managing Accounts](https://github.com/AJulian8/azure-network-protocols)
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Pen Testing "Rekall Corporation" (Linux and Windows)</b>
