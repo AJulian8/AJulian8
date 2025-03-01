@@ -10,7 +10,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Security Monitoring Environment</b>
-  - [Building a Security Monitoting Environment (Splunk)](https://github.com/AJulian8/Security-Monitoring-Environment)
+  - [Building a Security Monitoring Environment (Splunk)](https://github.com/AJulian8/Security-Monitoring-Environment)
 - <b>Pen Testing "Rekall Corporation" (Linux and Windows)</b>
   - [Pen Testing-Rekall Corpororation](https://github.com/AJulian8/pentesting)
 <!--
